@@ -22,7 +22,7 @@
             "appName": "ВТБ (Баланс)",
             "appVersion": "16.5.1",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/vtb.ico",
-            "appPlist": "https://github.com/exomoscow/store/releases/download/exo/vtb1122.ipa?raw=true",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/vtb1122.ipa?raw=true",
             "appDescription": "Удаленное приложение банка ВТБ."
             },
 	    {
