@@ -22,7 +22,7 @@
             "appName": "ВТБ (Баланс)",
             "appVersion": "16.5.1",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/vtb.ico",
-            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/vtb1122.ipa",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/vtb1122.ipa?raw=true",
             "appDescription": "Удаленное приложение банка ВТБ."
             },
 	    {
@@ -32,7 +32,7 @@
             "appName": "Открытие",
             "appVersion": "4.0.8",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/open.ico",
-            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/open1122.ipa",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/open1122.ipa?raw=true",
             "appDescription": "Удаленное приложение банка Открытие."
             },
 	    {
@@ -42,7 +42,7 @@
             "appName": "Совкомбанк",
             "appVersion": "6.5.0",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/sov.ico",
-            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/sov1122.ipa",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/sov1122.ipa?raw=true",
             "appDescription": "Удаленное приложение Совкомбанка."
             },
 	    {
@@ -52,8 +52,8 @@
             "appName": "YouTube +",
             "appVersion": "17.42.7",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/yt.ico",
-            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/youtube1122.ipa",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/youtube1122.ipa?raw=true",
             "appDescription": "Расширенное приложение YouTube без рекламы. (uYou Tweak)."
-            }
+            },
     ]
 }
