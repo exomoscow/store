@@ -75,6 +75,15 @@
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/youtube1122.ipa",
             "appDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (Dark Tweak)."
             },
-	    
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "Picsart Color",
+            "appVersion": "2.6.3",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/picsart.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/youtube1122.ipa",
+            "appDescription": "Многофункциональное приложение для создания потрясающих цифровых иллюстраций."
+            },
     ]
 }
