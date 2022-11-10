@@ -83,6 +83,15 @@
             "localizedDescription": "Расширенное приложение Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Plus Tweak)",
             "versionDate": "2022-11-01T12:00:00+0800",
             "iconURL": "https://raw.githubusercontent.com/dollacry/xstore/main/ig.ico"
+	    },
+	    {
+            "CateIndex": 1,
+            "name": "Instagram Tweaked +",
+            "version": "254",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/youtube1122.ipa",
+            "localizedDescription": "Расширенное приложение Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Plus Tweak)",
+            "versionDate": "2022-11-01T12:00:00+0800",
+            "iconURL": "https://raw.githubusercontent.com/dollacry/xstore/main/ig.ico"
 	    }
     ]
 }
