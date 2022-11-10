@@ -2,7 +2,7 @@
     "version": "1.0",
     "sourceName": "exo.store",
     "sourceAuthor": "exo.store",
-    "sourceLinkTitle": "@exostore Support",
+    "sourceLinkTitle": "Поддержка",
     "sourceLinkUrl": "http://t.me/exostore_bot",
     "sourceImage": "https://github.com/exomoscow/store/blob/main/exoicon.png?raw=true",
     "sourceUpdateTime": "2022-11-09T12::00+0800",
@@ -83,6 +83,16 @@
             "appVersion": "2.6.3",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/picsart.ico",
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/picsart1122.ipa?raw=true",
+            "appDescription": "Многофункциональное приложение для создания потрясающих цифровых иллюстраций."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 4,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "Subway Surfer",
+            "appVersion": "Final",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/subway.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/subway1122.ipa?raw=true",
             "appDescription": "Многофункциональное приложение для создания потрясающих цифровых иллюстраций."
             },
     ]
