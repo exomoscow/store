@@ -22,7 +22,7 @@
             "appName": "ВТБ (Баланс)",
             "appVersion": "16.5.1",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/vtb.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/youtube1122.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/vtb1122.ipa?raw=true?raw=true",
             "appDescription": "Удаленное приложение банка ВТБ."
             },
 	    {
@@ -32,7 +32,7 @@
             "appName": "Открытие",
             "appVersion": "4.0.8",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/open.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/youtube1122.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/open1122.ipa?raw=true",
             "appDescription": "Удаленное приложение банка Открытие."
             },
 	    {
@@ -42,7 +42,7 @@
             "appName": "Совкомбанк",
             "appVersion": "6.5.0",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/sov.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/youtube1122.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/sov1122.ipa?raw=true",
             "appDescription": "Удаленное приложение Совкомбанка."
             },
 	    {
@@ -52,7 +52,7 @@
             "appName": "YouTube +",
             "appVersion": "17.42.7",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/yt.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/youtube1122.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/youtube1122.ipa?raw=true",
             "appDescription": "Расширенная версия приложенияя YouTube без рекламы. (uYou Tweak)."
             },
 	    {
@@ -62,7 +62,7 @@
             "appName": "Instagram +",
             "appVersion": "254",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/ig.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/youtube1122.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/ig1122.ipa?raw=true",
             "appDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Plus Tweak)."
             },
 	    {
@@ -72,7 +72,7 @@
             "appName": "TikTok +",
             "appVersion": "26.6.0",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/tt.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/youtube1122.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/tiktok1122.ip?raw=truea",
             "appDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (Dark Tweak)."
             },
 	    {
@@ -82,7 +82,7 @@
             "appName": "Picsart Color",
             "appVersion": "2.6.3",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/picsart.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/youtube1122.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/picsart1122.ipa?raw=true",
             "appDescription": "Многофункциональное приложение для создания потрясающих цифровых иллюстраций."
             },
     ]
