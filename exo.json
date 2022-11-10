@@ -7,13 +7,16 @@
     "sourceImage": "https://github.com/exomoscow/store/blob/main/exoicon.png?raw=true",
     "sourceUpdateTime": "2022-11-09T12::00+0800",
     "sourceDescription": "Твоя альтернатива AppStore.",
-    "appCategories": [
-        "Банки",
-	"Социальные сети"
-       
-    ],
+    "appCategories":    [
+    		"Банки",
+		"Социальные сети",
+    		"Фото и видео",
+		"Утилиты",
+		"Игры"
+    			],
     "appRepositories": [
 	    {
+            "appType": "SELF_SIGN",
             "appCateIndex": 0,
             "appUpdateTime": "2022-09-11T12:00:00+0800",
             "appName": "ВТБ (Баланс)",
@@ -23,6 +26,7 @@
             "appDescription": "Удаленное приложение банка ВТБ."
             },
 	    {
+	    "appType": "SELF_SIGN",
             "appCateIndex": 0,
             "appUpdateTime": "2022-09-11T12:00:00+0800",
             "appName": "Открытие",
@@ -32,6 +36,7 @@
             "appDescription": "Удаленное приложение банка Открытие."
             },
 	    {
+	    "appType": "SELF_SIGN",    
             "appCateIndex": 0,
             "appUpdateTime": "2022-09-11T12:00:00+0800",
             "appName": "Совкомбанк",
@@ -41,13 +46,34 @@
             "appDescription": "Удаленное приложение Совкомбанка."
             },
 	    {
+	    "appType": "SELF_SIGN",
             "appCateIndex": 1,
             "appUpdateTime": "2022-09-11T12:00:00+0800",
             "appName": "YouTube +",
             "appVersion": "17.42.7",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/yt.ico",
             "appPlist": "https://github.com/exomoscow/store/releases/download/exo/youtube1122.ipa?raw=true",
-            "appDescription": "Расширенное приложение YouTube без рекламы. (uYou Tweak)."
+            "appDescription": "Расширенная версия приложенияя YouTube без рекламы. (uYou Tweak)."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "Instagram +",
+            "appVersion": "254",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/ig.ico",
+            "appPlist": "https://github.com/exomoscow/store/releases/download/exo/instagram1122.ipa?raw=true",
+            "appDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Plus Tweak)."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "TikTok +",
+            "appVersion": "26.6.0",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/tt.ico",
+            "appPlist": "https://github.com/exomoscow/store/releases/download/exo/tiktok1122.ipa?raw=true",
+            "appDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (Dark Tweak)."
             }
     ]
 }
