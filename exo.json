@@ -11,12 +11,11 @@
     "appCategories": [
         "Банки",
 	"Социальные сети",
-        "Фото и видео",
-	"Игры"
+       
     ],
     "appRepositories": [
 	    {
-            "appType": "SELF_SIGN",
+            
             "appCateIndex": 0,
             "appUpdateTime": "2022-09-11T12:00:00+0800",
             "appName": "ВТБ (Баланс)",
@@ -26,7 +25,7 @@
             "appDescription": "Удаленное приложение банка ВТБ."
             },
 	    {
-            "appType": "SELF_SIGN",
+            
             "appCateIndex": 0,
             "appUpdateTime": "2022-09-11T12:00:00+0800",
             "appName": "Открытие",
@@ -36,7 +35,7 @@
             "appDescription": "Удаленное приложение банка Открытие."
             },
 	    {
-            "appType": "SELF_SIGN",
+            
             "appCateIndex": 0,
             "appUpdateTime": "2022-09-11T12:00:00+0800",
             "appName": "Совкомбанк",
@@ -46,7 +45,7 @@
             "appDescription": "Удаленное приложение Совкомбанка."
             },
 	    {
-            "appType": "SELF_SIGN",
+            
             "appCateIndex": 1,
             "appUpdateTime": "2022-09-11T12:00:00+0800",
             "appName": "YouTube +",
