@@ -70,7 +70,7 @@
             "appCateIndex": 1,
             "appUpdateTime": "2022-09-11T12:00:00+0800",
             "appName": "TikTok +",
-            "appVersion": "26.6.0",
+            "appVersion": "26.7.0",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/tiktok.ico",
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/tiktok1122.ipa",
             "appDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (DL Tweak)."
@@ -79,9 +79,39 @@
 	    "appType": "SELF_SIGN",
             "appCateIndex": 2,
             "appUpdateTime": "2022-09-11T12:00:00+0800",
-            "appName": "Picsart Color",
-            "appVersion": "2.6.3",
-            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/color.ico",
+            "appName": "StoryZ Premium",
+            "appVersion": "1.4.1",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/storyz.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/storyz1122.ipa",
+            "appDescription": "Заставьте ваши фото двигаться и оживите их."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "Perfect365 Plus",
+            "appVersion": "9.20.21",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/perfect.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/perfect1122.ipa",
+            "appDescription": "Создание виртуального макияжа и редактирования фото"
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "VSCO+",
+            "appVersion": "292",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/vsco.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/vsco1122.ipa",
+            "appDescription": "Популярный фоторедоктор со всеми открытыми пресетами."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "Picsart",
+            "appVersion": "20.9.5",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/picsart.ico",
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/picsart1122.ipa",
             "appDescription": "Многофункциональное приложение для создания потрясающих цифровых иллюстраций."
             },
@@ -89,28 +119,8 @@
 	    "appType": "SELF_SIGN",
             "appCateIndex": 2,
             "appUpdateTime": "2022-09-11T12:00:00+0800",
-            "appName": "Photoleap",
-            "appVersion": "2.2.22",
-            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/photoleap.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/photoleap1122.ipa",
-            "appDescription": "Преобразуйте свои изображения с помощью Photoleap, самого мощного приложения для редактирования фотографий."
-            },
-	    {
-	    "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
-            "appName": "MotionNinja",
-            "appVersion": "4.5.0",
-            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/motionninja.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/motionninja1122.ipa",
-            "appDescription": "Многофункциональный и простой видеоредактор, который поможет вам превратить ваши видеоролики в произведения искусства."
-            },
-	    {
-	    "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
             "appName": "Pixelmator",
-            "appVersion": "2.8.9",
+            "appVersion": "2.8.1",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/pixelmator.ico",
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/pixelmator1122.ipa",
             "appDescription": "Мощный графический редактор, в котором вы найдете все необходимое для создания, изменения и улучшения ваших изображений."
@@ -150,7 +160,7 @@
             "appCateIndex": 3,
             "appUpdateTime": "2022-09-11T12:00:00+0800",
             "appName": "Infuse Pro",
-            "appVersion": "3.1.4",
+            "appVersion": "7.4.4",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/infuse.ico",
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/infuse1122.ipa",
             "appDescription": "Видеоплеер для iOS с поддержкой 14 форматов и активированной Pro версией."
@@ -162,7 +172,7 @@
             "appName": "FlightRadar Gold",
             "appVersion": "8.18.5",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/radar.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/flight1122.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/radar1122.ipa",
             "appDescription": "Gold версия приложения для отслеживания авиационной техники."
             },
 	    {
@@ -189,11 +199,11 @@
 	    "appType": "SELF_SIGN",
             "appCateIndex": 3,
             "appUpdateTime": "2022-09-11T12:00:00+0800",
-            "appName": "FL Studio Mobile",
-            "appVersion": "4.1.4",
-            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/fl.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/fl1122.ipa",
-            "appDescription": "Мобильная версия популярной программы по созданию музыки."
+            "appName": "2GIS",
+            "appVersion": "6.8.0",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/2gis.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/2gis1122.ipa",
+            "appDescription": "Удаленное приложение 2GIS."
             },
 	    {
 	    "appType": "SELF_SIGN",
@@ -214,6 +224,16 @@
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/tor.ico",
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/tor1122.ipa",
             "appDescription": "Tor Browser с активированным Premium."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "Cross DJ Pro",
+            "appVersion": "3.7.1",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/dj.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/dj1122.ipa",
+            "appDescription": "Pro версия одной из лучших DJ программ."
             },
 	    {
 	    "appType": "SELF_SIGN",
