@@ -15,7 +15,6 @@
     ],
     "appRepositories": [
 	    {
-            
             "appCateIndex": 0,
             "appUpdateTime": "2022-09-11T12:00:00+0800",
             "appName": "ВТБ (Баланс)",
@@ -25,7 +24,6 @@
             "appDescription": "Удаленное приложение банка ВТБ."
             },
 	    {
-            
             "appCateIndex": 0,
             "appUpdateTime": "2022-09-11T12:00:00+0800",
             "appName": "Открытие",
@@ -35,7 +33,6 @@
             "appDescription": "Удаленное приложение банка Открытие."
             },
 	    {
-            
             "appCateIndex": 0,
             "appUpdateTime": "2022-09-11T12:00:00+0800",
             "appName": "Совкомбанк",
@@ -45,7 +42,6 @@
             "appDescription": "Удаленное приложение Совкомбанка."
             },
 	    {
-            
             "appCateIndex": 1,
             "appUpdateTime": "2022-09-11T12:00:00+0800",
             "appName": "YouTube +",
