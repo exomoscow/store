@@ -19,11 +19,11 @@
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
             "appUpdateTime": "2022-09-11T12:00:00+0800",
-            "appName": "ВТБ (Баланс)",
+            "appName": "ВТБ",
             "appVersion": "16.5.1",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/vtb.ico",
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/vtb1122.ipa",
-            "appDescription": "Удаленное приложение банка ВТБ."
+            "appDescription": "Удаленное приложение банка ВТБ (Баланс)."
             },
 	    {
 	    "appType": "SELF_SIGN",
@@ -60,7 +60,7 @@
             "appCateIndex": 1,
             "appUpdateTime": "2022-09-11T12:00:00+0800",
             "appName": "Instagram +",
-            "appVersion": "254",
+            "appVersion": "260.1",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/instagram.ico",
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/instagram1122.ipa",
             "appDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Plus Tweak)."
@@ -73,7 +73,7 @@
             "appVersion": "26.6.0",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/tiktok.ico",
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/tiktok1122.ipa",
-            "appDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (Dark Tweak)."
+            "appDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (DL Tweak)."
             },
 	    {
 	    "appType": "SELF_SIGN",
@@ -187,13 +187,53 @@
             },
 	    {
 	    "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "FL Studio Mobile",
+            "appVersion": "4.1.4",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/fl.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/fl1122.ipa",
+            "appDescription": "Мобильная версия популярной программы по созданию музыки."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "Noir for Safari",
+            "appVersion": "3.4",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/noir.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/noir1122.ipa",
+            "appDescription": "Черная тема для браузера Safari."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "Tor Browser Premium",
+            "appVersion": "3.1.7",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/tor.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/tor1122.ipa",
+            "appDescription": "Tor Browser с активированным Premium."
+            },
+	    {
+	    "appType": "SELF_SIGN",
             "appCateIndex": 4,
             "appUpdateTime": "2022-09-11T12:00:00+0800",
             "appName": "Subway Surfers",
-            "appVersion": "Final",
+            "appVersion": "3.2.0",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/subway.ico",
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/subway1122.ipa?raw=true",
             "appDescription": "Легендарная игра с бесконечной внутриигровой валютой."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 4,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "Flappy Bird",
+            "appVersion": "4.3",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/flappybird.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/flappybird.ipa?raw=true",
+            "appDescription": "Название говорит само за себя, одна из самых популярный игр на iPhone."
             }
     ]
 }
