@@ -14,7 +14,7 @@
 		"Утилиты",
 		"Игры"
     			],
-    "apps": [
+    "appRepositories":  [
 	    {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
