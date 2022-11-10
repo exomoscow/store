@@ -77,7 +77,7 @@
             },
 	    {
 	    "appType": "SELF_SIGN",
-            "appCateIndex": 1,
+            "appCateIndex": 2,
             "appUpdateTime": "2022-09-11T12:00:00+0800",
             "appName": "Picsart Color",
             "appVersion": "2.6.3",
@@ -85,6 +85,106 @@
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/picsart1122.ipa?raw=true",
             "appDescription": "Многофункциональное приложение для создания потрясающих цифровых иллюстраций."
             },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "Photoleap",
+            "appVersion": "2.2.22",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/picsart.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/photoleap1122.ipa?raw=true",
+            "appDescription": "Преобразуйте свои изображения с помощью Photoleap, самого мощного приложения для редактирования фотографий."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "MotionNinja",
+            "appVersion": "4.5.0",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/picsart.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/motionninja1122.ipa?raw=true",
+            "appDescription": "Многофункциональный и простой видеоредактор, который поможет вам превратить ваши видеоролики в произведения искусства."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "Pixelmator",
+            "appVersion": "2.8.9",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/picsart.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/pixelmator1122.ipa?raw=true",
+            "appDescription": "Мощный графический редактор, в котором вы найдете все необходимое для создания, изменения и улучшения ваших изображений."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "LumaFusion",
+            "appVersion": "3.1.4",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/picsart.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/lumafusion1122.ipa?raw=true",
+            "appDescription": "Откройте вновь магию создания историй и радость редактирования."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "FaceTune Basic",
+            "appVersion": "2.8.11",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/picsart.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/facetune1122.ipa?raw=true",
+            "appDescription": "Популярный фоторедактор для обработки лица и тела."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "InShot Pro",
+            "appVersion": "25.7.0",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/picsart.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/inshot1122.ipa?raw=true",
+            "appDescription": "Pro версия популярного редактора InShot."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "Infuse Pro",
+            "appVersion": "3.1.4",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/picsart.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/infuse1122.ipa?raw=true",
+            "appDescription": "Видеоплеер для iOS с поддержкой 14 форматов и активированной Pro версией."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "FlightRadar Gold",
+            "appVersion": "8.18.5",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/picsart.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/flight1122.ipa?raw=true",
+            "appDescription": "Gold версия приложения для отслеживания авиационной техники."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "KinoPub",
+            "appVersion": "1.0.87",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/subway.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/kinopub1122.ipa?raw=true",
+            "appDescription": "Популярный домашний кинотеатр."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "KinoHome",
+            "appVersion": "3.0",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/subway.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/kinohome1122.ipa?raw=true",
+            "appDescription": "Домашний кинотеатр от российского разработчика."
+            }
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 4,
