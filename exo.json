@@ -10,9 +10,9 @@
     "sourceDescription": "Твоя альтернатива AppStore.",
     "appCategories": [
         "Банки",
-		"Социальные сети",
+	"Социальные сети",
         "Фото и видео",
-		"Игры"
+	"Игры"
     ],
     "appRepositories": [
 	    {
@@ -24,4 +24,8 @@
             "appImage": "",
             "downloadURL": " ",
             "appDescription": "Удаленное приложение банка ВТБ."
-        },
+        }
+	    
+	    
+    ]
+}
