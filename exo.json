@@ -76,7 +76,7 @@
             "appDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (Dark Tweak)."
             },
 	    {
-            "appCateIndex": 1,
+            "Cate": 1,
             "name": "Instagram Tweaked",
             "version": "254",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/youtube1122.ipa",
@@ -85,7 +85,7 @@
             "iconURL": "https://raw.githubusercontent.com/dollacry/xstore/main/ig.ico"
 	    },
 	    {
-            "CateIndex": 1,
+            "Index": 1,
             "name": "Instagram Tweaked +",
             "version": "254",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/youtube1122.ipa",
