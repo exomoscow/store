@@ -1,0 +1,27 @@
+{
+    "version": "1.0",
+    "sourceName": "exo.store",
+    "sourceAuthor": "exo.store",
+    "sourceExportEnable": true,
+    "sourceLinkTitle": "Telegram",
+    "sourceLinkUrl": "http://t.me/exostore_bot",
+    "sourceImage": "http://github.com",
+    "sourceUpdateTime": "2022-11-10T12::00+0800",
+    "sourceDescription": "Твоя альтернатива AppStore.",
+    "appCategories": [
+        "Банки",
+		"Социальные сети",
+        "Фото и видео",
+		"Игры"
+    ],
+    "appRepositories": [
+	    {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "ВТБ (Баланс)",
+            "appVersion": "16.5.1",
+            "appImage": "",
+            "downloadURL": " ",
+            "appDescription": "Удаленное приложение банка ВТБ."
+        },
