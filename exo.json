@@ -6,7 +6,7 @@
     "sourceLinkTitle": "Telegram",
     "sourceLinkUrl": "http://t.me/exostore_bot",
     "sourceImage": "https://github.com/exomoscow/store/blob/main/exoicon.png?raw=true",
-    "sourceUpdateTime": "2022-11-10T12::00+0800",
+    "sourceUpdateTime": "2022-11-09T12::00+0800",
     "sourceDescription": "Твоя альтернатива AppStore.",
     "appCategories": [
         "Банки",
@@ -21,11 +21,39 @@
             "appUpdateTime": "2022-09-11T12:00:00+0800",
             "appName": "ВТБ (Баланс)",
             "appVersion": "16.5.1",
-            "appImage": "",
-            "downloadURL": " ",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/vtb.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/vtb1122.ipa",
             "appDescription": "Удаленное приложение банка ВТБ."
-        }
-	    
-	    
+            },
+	    {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "Открытие",
+            "appVersion": "4.0.8",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/open.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/open1122.ipa",
+            "appDescription": "Удаленное приложение банка Открытие."
+            },
+	    {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "Совкомбанк",
+            "appVersion": "6.5.0",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/sov.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/sov1122.ipa",
+            "appDescription": "Удаленное приложение Совкомбанка."
+            },
+	    {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appName": "YouTube +",
+            "appVersion": "17.42.7",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/yt.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/youtube1122.ipa",
+            "appDescription": "Расширенное приложение YouTube без рекламы. (uYou Tweak)."
+            }
     ]
 }
