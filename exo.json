@@ -32,7 +32,7 @@
             "appName": "Открытие",
             "appVersion": "4.0.8",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/open.ico",
-            "appPlist": "https://github.com/exomoscow/store/releases/download/exo/open1122.ipa?raw=true",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/open1122.ipa?raw=true",
             "appDescription": "Удаленное приложение банка Открытие."
             },
 	    {
