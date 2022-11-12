@@ -18,7 +18,7 @@
 	    {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "ВТБ",
             "appVersion": "16.5.1",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/vtb.ico",
@@ -28,7 +28,7 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "Открытие",
             "appVersion": "4.0.8",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/open.ico",
@@ -38,7 +38,7 @@
 	    {
 	    "appType": "SELF_SIGN",    
             "appCateIndex": 0,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "Совкомбанк",
             "appVersion": "6.5.0",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/sov.ico",
@@ -48,27 +48,27 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 1,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-12T12:00:00+0800",
             "appName": "YouTube +",
-            "appVersion": "17.42.7",
+            "appVersion": "17.43.1",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/yt.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/youtube1122.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/youtube1222.ipa",
             "appDescription": "Расширенная версия приложенияя YouTube без рекламы. (uYou Tweak)."
             },
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 1,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-12T12:00:00+0800",
             "appName": "Instagram +",
             "appVersion": "260.1",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/instagram.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/instagram1122.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/instagram1222.ipa",
             "appDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Plus Tweak)."
             },
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 1,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-12T12:00:00+0800",
             "appName": "TikTok +",
             "appVersion": "26.7.0",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/tiktok.ico",
@@ -78,7 +78,7 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 2,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "StoryZ Premium",
             "appVersion": "1.4.1",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/storyz.ico",
@@ -88,7 +88,7 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 2,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "Perfect365 Plus",
             "appVersion": "9.20.21",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/perfect.ico",
@@ -98,7 +98,7 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 2,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "VSCO +",
             "appVersion": "292",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/vsco.ico",
@@ -108,7 +108,7 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 2,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "Picsart",
             "appVersion": "20.9.5",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/picsart.ico",
@@ -118,7 +118,7 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 2,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "Pixelmator",
             "appVersion": "2.8.1",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/pixelmator.ico",
@@ -128,7 +128,7 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 2,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "LumaFusion",
             "appVersion": "3.1.4",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/luma.ico",
@@ -138,7 +138,7 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 2,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "FaceTune Basic",
             "appVersion": "2.8.11",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/facetune.ico",
@@ -148,17 +148,17 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 2,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "InShot Pro",
-            "appVersion": "25.7.0",
+            "appVersion": "1.63.1",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/inshot.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/inshot1122.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/inshot1222.ipa",
             "appDescription": "Pro версия популярного редактора InShot."
             },
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 3,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "Infuse Pro",
             "appVersion": "7.4.4",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/infuse.ico",
@@ -168,7 +168,7 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 3,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "FlightRadar Gold",
             "appVersion": "8.18.5",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/radar.ico",
@@ -178,7 +178,7 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 3,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "KinoPub",
             "appVersion": "1.0.87",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/kinopub.ico",
@@ -188,7 +188,7 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 3,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "KinoHome",
             "appVersion": "3.0",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/kinohome.ico",
@@ -198,7 +198,7 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 3,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "2GIS",
             "appVersion": "6.8.0",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/2gis.ico",
@@ -208,7 +208,7 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 3,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "Noir for Safari",
             "appVersion": "3.4",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/noir.ico",
@@ -218,7 +218,7 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 3,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "Tor Browser Premium",
             "appVersion": "3.1.7",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/tor.ico",
@@ -228,7 +228,7 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 3,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "Cross DJ Pro",
             "appVersion": "3.7.1",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/dj.ico",
@@ -238,7 +238,7 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 4,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "Subway Surfers",
             "appVersion": "3.2.0",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/subway.ico",
@@ -248,7 +248,7 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 4,
-            "appUpdateTime": "2022-09-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "Flappy Bird",
             "appVersion": "4.3",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/flappybird.ico",
