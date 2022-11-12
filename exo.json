@@ -21,7 +21,7 @@
             "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "ВТБ",
             "appVersion": "16.5.1",
-            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/vtb.ico",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/balance.ico",
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/vtb1122.ipa",
             "appDescription": "Удаленное приложение банка ВТБ (Баланс)."
             },
@@ -75,45 +75,15 @@
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/tiktok1122.ipa",
             "appDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (DL Tweak)."
             },
-	    {
+	    	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 2,
             "appUpdateTime": "2022-11-11T12:00:00+0800",
-            "appName": "StoryZ Premium",
-            "appVersion": "1.4.1",
-            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/storyz.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/storyz1122.ipa",
-            "appDescription": "Заставьте ваши фото двигаться и оживите их."
-            },
-	    {
-	    "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-            "appUpdateTime": "2022-11-11T12:00:00+0800",
-            "appName": "Perfect365 Plus",
-            "appVersion": "9.20.21",
-            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/perfect.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/perfect1122.ipa",
-            "appDescription": "Создание виртуального макияжа и редактирования фото"
-            },
-	    {
-	    "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-            "appUpdateTime": "2022-11-11T12:00:00+0800",
-            "appName": "VSCO +",
-            "appVersion": "292",
-            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/vsco.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/vsco1122.ipa",
-            "appDescription": "Популярный фоторедоктор со всеми открытыми пресетами."
-            },
-	    {
-	    "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-            "appUpdateTime": "2022-11-11T12:00:00+0800",
-            "appName": "Picsart",
-            "appVersion": "20.9.5",
-            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/picsart.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/picsart1122.ipa",
-            "appDescription": "Многофункциональное приложение для создания потрясающих цифровых иллюстраций."
+            "appName": "Procreate",
+            "appVersion": "5.2.8",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/procreate.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/procreate1222.ipa",
+            "appDescription": "Procreate позволяет создавать красивые эскизы, вдохновляющие картины и потрясающие иллюстрации, где бы вы ни находились."
             },
 	    {
 	    "appType": "SELF_SIGN",
@@ -122,7 +92,7 @@
             "appName": "Pixelmator",
             "appVersion": "2.8.1",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/pixelmator.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/pixelmator1122.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/pixelmator1222.ipa",
             "appDescription": "Мощный графический редактор, в котором вы найдете все необходимое для создания, изменения и улучшения ваших изображений."
             },
 	    {
@@ -132,7 +102,7 @@
             "appName": "LumaFusion",
             "appVersion": "3.1.4",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/luma.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/lumafusion1122.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/lumafusion1222.ipa",
             "appDescription": "Откройте вновь магию создания историй и радость редактирования."
             },
 	    {
@@ -172,7 +142,7 @@
             "appName": "FlightRadar Gold",
             "appVersion": "8.18.5",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/radar.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/radar1122.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/radar1222.ipa",
             "appDescription": "Gold версия приложения для отслеживания авиационной техники."
             },
 	    {
@@ -219,11 +189,11 @@
 	    "appType": "SELF_SIGN",
             "appCateIndex": 3,
             "appUpdateTime": "2022-11-11T12:00:00+0800",
-            "appName": "Tor Browser Premium",
-            "appVersion": "3.1.7",
-            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/tor.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/tor1122.ipa",
-            "appDescription": "Tor Browser с активированным Premium."
+            "appName": "Opener",
+            "appVersion": "1.11.5",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/opener.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/opener1222.ipa",
+            "appDescription": "С приложением Opener вы можете открывать ссылки напрямую в их «родных» iOS-приложениях вместо браузера."
             },
 	    {
 	    "appType": "SELF_SIGN",
