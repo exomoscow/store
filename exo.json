@@ -29,18 +29,8 @@
 	    "appType": "SELF_SIGN",
             "appCateIndex": 0,
             "appUpdateTime": "2022-11-11T12:00:00+0800",
-            "appName": "Открытие",
+            "appName": "Халва",
             "appVersion": "4.0.8",
-            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/open.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/open1122.ipa",
-            "appDescription": "Удаленное приложение банка Открытие."
-            },
-	    {
-	    "appType": "SELF_SIGN",    
-            "appCateIndex": 0,
-            "appUpdateTime": "2022-11-11T12:00:00+0800",
-            "appName": "Совкомбанк",
-            "appVersion": "6.5.0",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/sov.ico",
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/sov1122.ipa",
             "appDescription": "Удаленное приложение Совкомбанка."
@@ -117,16 +107,6 @@
             },
 	    {
 	    "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-            "appUpdateTime": "2022-11-11T12:00:00+0800",
-            "appName": "InShot Pro",
-            "appVersion": "1.63.2",
-            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/inshot.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/inshot1122.ipa",
-            "appDescription": "Pro версия популярного редактора InShot."
-            },
-	    {
-	    "appType": "SELF_SIGN",
             "appCateIndex": 3,
             "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "Infuse Pro",
@@ -134,16 +114,6 @@
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/infuse.ico",
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/infuse1122.ipa",
             "appDescription": "Видеоплеер для iOS с поддержкой 14 форматов и активированной Pro версией."
-            },
-	    {
-	    "appType": "SELF_SIGN",
-            "appCateIndex": 3,
-            "appUpdateTime": "2022-11-11T12:00:00+0800",
-            "appName": "FlightRadar Gold",
-            "appVersion": "8.18.5",
-            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/radar.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/radar1222.ipa",
-            "appDescription": "Gold версия приложения для отслеживания авиационной техники."
             },
 	    {
 	    "appType": "SELF_SIGN",
@@ -202,7 +172,7 @@
             "appName": "Cross DJ Pro",
             "appVersion": "3.7.1",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/dj.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/dj1122.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/dj1222.ipa",
             "appDescription": "Pro версия одной из лучших DJ программ."
             },
 	    {
