@@ -111,8 +111,8 @@
             "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "StoryZ",
             "appVersion": "1.4.1",
-            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/facetune.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/facetune1122.ipa",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/storyz.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/storyz1222.ipa",
             "appDescription": "Создавайте видео из неподвижных фото."
             },
 	    {
