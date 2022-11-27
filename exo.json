@@ -50,9 +50,9 @@
             "appCateIndex": 1,
             "appUpdateTime": "2022-11-12T12:00:00+0800",
             "appName": "Instagram +",
-            "appVersion": "260.1",
+            "appVersion": "261",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/instagram.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/instagram1222.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/insta1222.ipa",
             "appDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Plus Tweak)."
             },
 	    {
@@ -62,7 +62,7 @@
             "appName": "TikTok +",
             "appVersion": "26.8.0",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/tiktok.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/tiktok1222.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/tiktok1322.ipa",
             "appDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (DL Tweak)."
             },
 	    	    {
