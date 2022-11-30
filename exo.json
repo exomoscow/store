@@ -58,11 +58,11 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 1,
-            "appUpdateTime": "2022-11-27T12:00:00+0800",
+            "appUpdateTime": "2022-11-30T12:00:00+0800",
             "appName": "TikTok +",
-            "appVersion": "27.0.0",
+            "appVersion": "26.8.0",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/tiktok.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/tiktok1322.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/tiktok1122.ipa",
             "appDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (DL Tweak)."
             },
 	    	    {
@@ -104,6 +104,16 @@
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/facetune.ico",
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/facetune1122.ipa",
             "appDescription": "Популярный фоторедактор для обработки лица и тела."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
+            "appName": "Bazaart Premium",
+            "appVersion": "9.3.2",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/bazaart.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/bazaart1122.ipa",
+            "appDescription": "Ваш универсальный магазин для редактирования и дизайна фотографий с активированной премиум подпиской."
             },
 	    {
 	    "appType": "SELF_SIGN",
@@ -188,11 +198,11 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 4,
-            "appUpdateTime": "2022-11-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-30T12:00:00+0800",
             "appName": "Subway Surfers",
-            "appVersion": "3.2.0",
+            "appVersion": "3.4.0",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/subway.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/subway1122.ipa?raw=true",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/subway1222.ipa?raw=true",
             "appDescription": "Легендарная игра с бесконечной внутриигровой валютой."
             },
 	    {
