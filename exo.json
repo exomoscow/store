@@ -108,7 +108,7 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 2,
-            "appUpdateTime": "2022-11-11T12:00:00+0800",
+            "appUpdateTime": "2022-11-30T12:00:00+0800",
             "appName": "Bazaart Premium",
             "appVersion": "9.3.2",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/bazaart.ico",
