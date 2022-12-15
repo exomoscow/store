@@ -48,11 +48,11 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 1,
-            "appUpdateTime": "2022-12-15T12:00:00+0800",
+            "appUpdateTime": "2022-12-16T12:00:00+0800",
             "appName": "Instagram +",
-            "appVersion": "261",
+            "appVersion": "263.1",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/instagram.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/insta1222.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/insta0123.ipa",
             "appDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Plus Tweak)."
             },
 	    {
