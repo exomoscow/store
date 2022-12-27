@@ -128,6 +128,16 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 3,
+            "appUpdateTime": "2022-11-28T12:00:00+0800",
+            "appName": "Betternet VPN Premium",
+            "appVersion": "5.31.1",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/better.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/better0123.ipa",
+            "appDescription": "Premium версия Betternet VPN."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 3,
             "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "Infuse Pro",
             "appVersion": "7.4.4",
