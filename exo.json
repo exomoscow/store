@@ -2,10 +2,10 @@
     "version": "1.0",
     "sourceName": "exo.store",
     "sourceAuthor": "exo.store",
-    "sourceLinkTitle": "Поддержка",
-    "sourceLinkUrl": "http://t.me/exomoscow",
+    "sourceLinkTitle": "VK",
+    "sourceLinkUrl": "http://t.me/exostorebot",
     "sourceImage": "https://github.com/exomoscow/store/blob/main/exostore.jpg?raw=true",
-    "sourceUpdateTime": "2022-12-01T12:00:00+0800",
+    "sourceUpdateTime": "2022-12-27T12:00:00+0800",
     "sourceDescription": "Твоя альтернатива AppStore.",
     "appCategories":    [
 	        "Навигация",
@@ -67,43 +67,12 @@
             },
 	    {
 	    "appType": "SELF_SIGN",
-            "appCateIndex": 1,
-            "appUpdateTime": "2022-12-15T12:00:00+0800",
-            "appName": "Nicegram Premium",
-            "appVersion": "1.1.5",
-            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/gram.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/gram0123.ipa",
-            "appDescription": "Премиум версия лучшего клиента Telegram (для активации следует нажать на покупку и после предложения оплатить с помощью Touch ID/Face ID нажать отмена)."
-            },
-	    {
-	    "appType": "SELF_SIGN",
             "appCateIndex": 2,
-            "appUpdateTime": "2022-12-15T12:00:00+0800",
-            "appName": "NameSake",
-            "appVersion": "1.0.5",
-            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/name.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/name0123.ipa",
-            "appDescription": "Создавайте потрясающие аватары с помощью искуственного интелекта."
-            },
-	    {
-	    "hide": true,    
-	    "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-            "appUpdateTime": "2022-12-15T12:00:00+0800",
-            "appName": "Photo AI Eraser",
-            "appVersion": "2.3.2",
-            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/aie.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/aie0123.ipa",
-            "appDescription": "Удаление посторонних объектов на основе ИИ."
-            },
-	    {
-	    "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-            "appUpdateTime": "2022-11-11T12:00:00+0800",
+            "appUpdateTime": "2022-12-27T12:00:00+0800",
             "appName": "Procreate",
-            "appVersion": "5.2.8",
+            "appVersion": "5.3.1",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/procreate.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/procreate1222.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/procreate0123.ipa",
             "appDescription": "Procreate позволяет создавать красивые эскизы, вдохновляющие картины и потрясающие иллюстрации, где бы вы ни находились."
             },
 	    {
