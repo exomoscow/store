@@ -38,19 +38,19 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 1,
-            "appUpdateTime": "2022-12-14T12:00:00+0800",
+            "appUpdateTime": "2022-12-27T12:00:00+0800",
             "appName": "YouTube +",
-            "appVersion": "17.49.4",
+            "appVersion": "17.49.6",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/yt.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/youtube1222.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/youtube0123.ipa",
             "appDescription": "Расширенная версия приложенияя YouTube без рекламы. (uYou Tweak)."
             },
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 1,
-            "appUpdateTime": "2022-12-16T12:00:00+0800",
+            "appUpdateTime": "2022-12-27T12:00:00+0800",
             "appName": "Instagram +",
-            "appVersion": "263.1",
+            "appVersion": "264.1",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/instagram.ico",
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/insta0123.ipa",
             "appDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Plus Tweak)."
