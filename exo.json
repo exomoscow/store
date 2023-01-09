@@ -68,16 +68,6 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 2,
-            "appUpdateTime": "2022-12-27T12:00:00+0800",
-            "appName": "Procreate",
-            "appVersion": "5.3.1",
-            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/procreate.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/procreate0123.ipa",
-            "appDescription": "Procreate позволяет создавать красивые эскизы, вдохновляющие картины и потрясающие иллюстрации, где бы вы ни находились."
-            },
-	    {
-	    "appType": "SELF_SIGN",
-            "appCateIndex": 2,
             "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "Pixelmator",
             "appVersion": "2.8.1",
