@@ -38,12 +38,12 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 1,
-            "appUpdateTime": "2022-12-27T12:00:00+0800",
+            "appUpdateTime": "2023-01-09T12:00:00+0800",
             "appName": "YouTube +",
             "appVersion": "17.49.6",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/yt.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/youtube0123.ipa",
-            "appDescription": "Расширенная версия приложенияя YouTube без рекламы. (uYou Tweak)."
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/youtube0223.ipa",
+            "appDescription": "Расширенная версия приложенияя YouTube без рекламы. (YTKillerPlus Tweak)."
             },
 	    {
 	    "appType": "SELF_SIGN",
