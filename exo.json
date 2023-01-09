@@ -40,10 +40,10 @@
             "appCateIndex": 1,
             "appUpdateTime": "2023-01-09T12:00:00+0800",
             "appName": "YouTube +",
-            "appVersion": "17.49.6",
+            "appVersion": "18.01.2",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/yt.ico",
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/youtube0223.ipa",
-            "appDescription": "Расширенная версия приложенияя YouTube без рекламы. (YTKillerPlus Tweak)."
+            "appDescription": "Расширенная версия приложенияя YouTube без рекламы. (Oled/PiP/iSponsorBlock Tweaks)."
             },
 	    {
 	    "appType": "SELF_SIGN",
@@ -114,16 +114,6 @@
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/vpn.ico",
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/vpn1222.ipa",
             "appDescription": "Premium версия популярного VPN приложения."
-            },
-	    {
-	    "appType": "SELF_SIGN",
-            "appCateIndex": 3,
-            "appUpdateTime": "2022-11-28T12:00:00+0800",
-            "appName": "Betternet VPN Premium",
-            "appVersion": "5.31.1",
-            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/better.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/better0123.ipa",
-            "appDescription": "Premium версия Betternet VPN."
             },
 	    {
 	    "appType": "SELF_SIGN",
