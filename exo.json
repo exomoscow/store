@@ -40,9 +40,9 @@
             "appCateIndex": 1,
             "appUpdateTime": "2023-01-09T12:00:00+0800",
             "appName": "YouTube +",
-            "appVersion": "18.01.2",
+            "appVersion": "18.02.1",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/yt.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/youtube.ipa",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/youtube2.ipa",
             "appDescription": "Расширенная версия приложенияя YouTube без рекламы. (uYou/PiP/iSponsorBlock Tweaks)."
             },
 	    {
