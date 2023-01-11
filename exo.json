@@ -178,9 +178,9 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 4,
-            "appUpdateTime": "2022-11-30T12:00:00+0800",
+            "appUpdateTime": "2023-01-11T12:00:00+0800",
             "appName": "Subway Surfers",
-            "appVersion": "3.2.0",
+            "appVersion": "3.6.0",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/subway.ico",
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/subway.ipa?raw=true",
             "appDescription": "Легендарная игра с бесконечной внутриигровой валютой."
