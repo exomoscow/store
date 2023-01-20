@@ -38,9 +38,9 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 1,
-            "appUpdateTime": "2023-01-13T12:00:00+0800",
+            "appUpdateTime": "2023-01-21T12:00:00+0800",
             "appName": "YouTube +",
-            "appVersion": "18.01.6",
+            "appVersion": "18.02.3",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/yt.ico",
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/youtube.ipa",
             "appDescription": "Расширенная версия приложенияя YouTube без рекламы. (uYou/PiP/iSponsorBlock Tweaks)."
@@ -48,9 +48,9 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 1,
-            "appUpdateTime": "2022-12-27T12:00:00+0800",
+            "appUpdateTime": "2023-01-21T12:00:00+0800",
             "appName": "Instagram +",
-            "appVersion": "264.1",
+            "appVersion": "266.0",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/instagram.ico",
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/instagram.ipa",
             "appDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Plus Tweak)."
@@ -98,9 +98,9 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 2,
-            "appUpdateTime": "2022-11-30T12:00:00+0800",
+            "appUpdateTime": "2023-01-21T12:00:00+0800",
             "appName": "Bazaart Premium",
-            "appVersion": "9.3.2",
+            "appVersion": "9.5.3",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/bazaart.ico",
             "appPackage": "https://github.com/exomoscow/store/releases/download/exo/bazaart.ipa",
             "appDescription": "Ваш универсальный магазин для редактирования и дизайна фотографий с активированной премиум подпиской."
