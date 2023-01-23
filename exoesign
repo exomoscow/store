@@ -1,0 +1,189 @@
+{
+    "name": "exo.store",
+    "message": "exo.store - Твоя альтернатива AppStore.",
+    "identifier": "exo",
+    "sourceicon": "https://github.com/exomoscow/store/blob/main/exostore.jpg?raw=true",
+    "sourceURL": "",
+    "apps":  [
+	    {
+	    
+            "appCateIndex": 0,
+            "versiondate": "2022-12-15",
+            "name": "2GIS",
+            "version": "6.8.0",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/2gis.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/2gis.ipa",
+            "versionDescription": "Удаленное приложение 2GIS."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2022-12-15T12:00:00+0800",
+            "appName": "HUD Speed Pro",
+            "appVersion": "55.0.1",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/hud.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/hud.ipa",
+            "appDescription": "Антирадар."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2023-01-21T12:00:00+0800",
+            "appName": "YouTube +",
+            "appVersion": "18.02.3",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/yt.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/youtube.ipa",
+            "appDescription": "Расширенная версия приложенияя YouTube без рекламы. (uYou/PiP/iSponsorBlock Tweaks)."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2023-01-21T12:00:00+0800",
+            "appName": "Instagram +",
+            "appVersion": "266.0",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/instagram.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/instagram.ipa",
+            "appDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Plus Tweak)."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 1,
+            "appUpdateTime": "2023-01-10T12:00:00+0800",
+            "appName": "TikTok +",
+            "appVersion": "26.8.0",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/tiktok.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/tiktok.ipa",
+            "appDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (DL Tweak)."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
+            "appName": "Pixelmator",
+            "appVersion": "2.8.1",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/pixelmator.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/pixelmator.ipa",
+            "appDescription": "Мощный графический редактор, в котором вы найдете все необходимое для создания, изменения и улучшения ваших изображений."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
+            "appName": "LumaFusion",
+            "appVersion": "3.1.4",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/luma.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/lumafusion.ipa",
+            "appDescription": "Откройте вновь магию создания историй и радость редактирования."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
+            "appName": "FaceTune Basic",
+            "appVersion": "2.8.11",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/facetune.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/facetune.ipa",
+            "appDescription": "Популярный фоторедактор для обработки лица и тела."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2023-01-21T12:00:00+0800",
+            "appName": "Bazaart Premium",
+            "appVersion": "9.5.3",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/bazaart.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/bazaart.ipa",
+            "appDescription": "Ваш универсальный магазин для редактирования и дизайна фотографий с активированной премиум подпиской."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-11-15T12:00:00+0800",
+            "appName": "Star VPN Premium",
+            "appVersion": "3.6.0",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/vpn.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/vpn.ipa",
+            "appDescription": "Premium версия популярного VPN приложения."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
+            "appName": "Infuse Pro",
+            "appVersion": "7.4.4",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/infuse.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/infuse.ipa",
+            "appDescription": "Видеоплеер для iOS с поддержкой 14 форматов и активированной Pro версией."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
+            "appName": "KinoPub",
+            "appVersion": "1.0.87",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/kinopub.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/kinopub.ipa",
+            "appDescription": "Популярный домашний кинотеатр."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
+            "appName": "KinoHome",
+            "appVersion": "3.0",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/kinohome.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/kinohome.ipa",
+            "appDescription": "Домашний кинотеатр от российского разработчика."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
+            "appName": "Noir for Safari",
+            "appVersion": "3.4",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/noir.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/noir.ipa",
+            "appDescription": "Черная тема для браузера Safari."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
+            "appName": "Opener",
+            "appVersion": "1.11.5",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/opener.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/opener.ipa",
+            "appDescription": "С приложением Opener вы можете открывать ссылки напрямую в их «родных» iOS-приложениях вместо браузера."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
+            "appName": "Cross DJ Pro",
+            "appVersion": "3.7.1",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/dj.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/dj.ipa",
+            "appDescription": "Pro версия одной из лучших DJ программ."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 4,
+            "appUpdateTime": "2023-01-11T12:00:00+0800",
+            "appName": "Subway Surfers",
+            "appVersion": "3.6.0",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/subway.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/subway.ipa?raw=true",
+            "appDescription": "Легендарная игра с бесконечной внутриигровой валютой."
+            },
+	    {
+	    "appType": "SELF_SIGN",
+            "appCateIndex": 4,
+            "appUpdateTime": "2022-11-11T12:00:00+0800",
+            "appName": "Flappy Bird",
+            "appVersion": "4.3",
+            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/flappybird.ico",
+            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/flappybird.ipa?raw=true",
+            "appDescription": "Название говорит само за себя, одна из самых популярный игр на iPhone."
+            }
+    ]
+}
