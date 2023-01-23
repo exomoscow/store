@@ -83,7 +83,8 @@
             "version": "3.6.0",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/vpn.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/vpn.ipa",
-            "versionDescription": "Premium версия популярного VPN приложения."
+            "versionDescription": "Premium версия популярного VPN приложения.",
+            "size": "8074000"
             },
 	    {
 	    "versionDate": "2022-11-11",
@@ -91,7 +92,8 @@
             "version": "7.4.4",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/infuse.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/infuse.ipa",
-            "versionDescription": "Видеоплеер для iOS с поддержкой 14 форматов и активированной Pro версией."
+            "versionDescription": "Видеоплеер для iOS с поддержкой 14 форматов и активированной Pro версией.",
+            "size": "40370176"
             },
 	    {
 	    "versionDate": "2022-11-11",
@@ -99,7 +101,8 @@
             "version": "1.0.87",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/kinopub.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/kinopub.ipa",
-            "versionDescription": "Популярный домашний кинотеатр."
+            "versionDescription": "Популярный домашний кинотеатр.",
+            "size": "37748736"
             },
 	    {
 	    "versionDate": "2022-11-11",
@@ -107,7 +110,8 @@
             "version": "3.0",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/kinohome.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/kinohome.ipa",
-            "versionDescription": "Домашний кинотеатр от российского разработчика."
+            "versionDescription": "Домашний кинотеатр от российского разработчика.",
+            "size": "78643000"
             },
 	    {
 	    "versionDate": "2022-11-11",
@@ -115,15 +119,8 @@
             "version": "3.4",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/noir.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/noir.ipa",
-            "versionDescription": "Черная тема для браузера Safari."
-            },
-	    {
-	    "versionDate": "2022-11-11",
-            "name": "Opener",
-            "version": "1.11.5",
-            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/opener.ico",
-            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/opener.ipa",
-            "versionDescription": "С приложением Opener вы можете открывать ссылки напрямую в их «родных» iOS-приложениях вместо браузера."
+            "versionDescription": "Черная тема для браузера Safari.",
+            "size": "5347737"
             },
 	    {
 	    "versionDate": "2022-11-11",
@@ -131,7 +128,8 @@
             "version": "3.7.1",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/dj.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/dj.ipa",
-            "versionDescription": "Pro версия одной из лучших DJ программ."
+            "versionDescription": "Pro версия одной из лучших DJ программ.",
+            "size": "113246208"
             },
 	    {
 	    "versionDate": "2023-01-11",
@@ -139,7 +137,8 @@
             "version": "3.6.0",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/subway.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/subway.ipa?raw=true",
-            "versionDescription": "Легендарная игра с бесконечной внутриигровой валютой."
+            "versionDescription": "Легендарная игра с бесконечной внутриигровой валютой.",
+            "size": "150994944"
             },
 	    {
 	    "versionDate": "2022-11-11",
@@ -147,7 +146,8 @@
             "version": "4.3",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/flappybird.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/flappybird.ipa?raw=true",
-            "versionDescription": "Название говорит само за себя, одна из самых популярный игр на iPhone."
+            "versionDescription": "Название говорит само за себя, одна из самых популярный игр на iPhone.",
+            "size": "2150000"
             }
     ]
 }
