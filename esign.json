@@ -11,7 +11,8 @@
             "version": "55.0.1",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/hud.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/hud.ipa",
-            "versionDescription": "Антирадар."
+            "versionDescription": "Антирадар.",
+            "size": "23802675"
             },
 	    {
 	    "versionDate": "2023-01-21",
