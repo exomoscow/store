@@ -149,16 +149,6 @@
 	    "appType": "SELF_SIGN",
             "appCateIndex": 3,
             "appUpdateTime": "2022-11-11T12:00:00+0800",
-            "appName": "Opener",
-            "appVersion": "1.11.5",
-            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/opener.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/opener.ipa",
-            "appDescription": "С приложением Opener вы можете открывать ссылки напрямую в их «родных» iOS-приложениях вместо браузера."
-            },
-	    {
-	    "appType": "SELF_SIGN",
-            "appCateIndex": 3,
-            "appUpdateTime": "2022-11-11T12:00:00+0800",
             "appName": "Cross DJ Pro",
             "appVersion": "3.7.1",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/dj.ico",
