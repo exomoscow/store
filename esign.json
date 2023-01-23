@@ -47,7 +47,8 @@
             "version": "2.8.1",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/pixelmator.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/pixelmator.ipa",
-            "versionDescription": "Мощный графический редактор, в котором вы найдете все необходимое для создания, изменения и улучшения ваших изображений."
+            "versionDescription": "Мощный графический редактор, в котором вы найдете все необходимое для создания, изменения и улучшения ваших изображений.",
+            "size": "214958080"
             },
 	    {
 	    "versionDate": "2022-11-11",
@@ -55,7 +56,8 @@
             "version": "3.1.4",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/luma.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/lumafusion.ipa",
-            "versionDescription": "Откройте вновь магию создания историй и радость редактирования."
+            "versionDescription": "Откройте вновь магию создания историй и радость редактирования.",
+            "size": "131072000"
             },
 	    {
 	    "versionDate": "2022-11-11",
@@ -63,7 +65,8 @@
             "version": "2.8.11",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/facetune.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/facetune.ipa",
-            "versionDescription": "Популярный фоторедактор для обработки лица и тела."
+            "versionDescription": "Популярный фоторедактор для обработки лица и тела.",
+            "size": "49283072"
             },
 	    {
 	    "versionDate": "2023-01-210",
@@ -71,7 +74,8 @@
             "version": "9.5.3",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/bazaart.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/bazaart.ipa",
-            "versionDescription": "Ваш универсальный магазин для редактирования и дизайна фотографий с активированной премиум подпиской."
+            "versionDescription": "Ваш универсальный магазин для редактирования и дизайна фотографий с активированной премиум подпиской.",
+            "size": "54525952"
             },
 	    {
 	    "versionDate": "2022-11-15",
