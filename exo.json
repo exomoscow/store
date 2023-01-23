@@ -18,17 +18,7 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2023-01-23",
-            "appName": "2GIS",
-            "appVersion": "6.8.0",
-            "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/2gis.ico",
-            "appPackage": "https://github.com/exomoscow/store/releases/download/exo/2gis.ipa",
-            "appDescription": "Удаленное приложение 2GIS."
-            },
-	    {
-	    "appType": "SELF_SIGN",
-            "appCateIndex": 0,
-            "appUpdateTime": "2022-12-15T12:00:00+0800",
+            "appUpdateTime": "2022-12-15",
             "appName": "HUD Speed Pro",
             "appVersion": "55.0.1",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/hud.ico",
@@ -38,7 +28,7 @@
 	    {
 	    "appType": "SELF_SIGN",
             "appCateIndex": 1,
-            "appUpdateTime": "2023-01-21T12:00:00+0800",
+            "appUpdateTime": "2023-01-22",
             "appName": "YouTube +",
             "appVersion": "18.02.3",
             "appImage": "https://raw.githubusercontent.com/exomoscow/store/main/files/yt.ico",
