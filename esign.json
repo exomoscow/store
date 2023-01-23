@@ -21,5 +21,37 @@
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/hud.ipa",
             "versionDescription": "Антирадар."
             },
+	    {
+	    "versionDate": "2023-01-21T12:00:00+0800",
+            "name": "YouTube +",
+            "version": "18.02.3",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/yt.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/youtube.ipa",
+            "versionDescription": "Расширенная версия приложенияя YouTube без рекламы. (uYou/PiP/iSponsorBlock Tweaks)."
+            },
+	    {
+	    "versionDate": "2023-01-21T12:00:00+0800",
+            "name": "Instagram +",
+            "version": "266.0",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/instagram.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/instagram.ipa",
+            "versionDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Plus Tweak)."
+            },
+	    {
+	    "versionDate": "2023-01-10T12:00:00+0800",
+            "name": "TikTok +",
+            "version": "26.8.0",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/tiktok.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/tiktok.ipa",
+            "versionDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (DL Tweak)."
+            },
+	    {
+	    "versionDate": "2022-11-11T12:00:00+0800",
+            "name": "Pixelmator",
+            "version": "2.8.1",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/pixelmator.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/pixelmator.ipa",
+            "versionDescription": "Мощный графический редактор, в котором вы найдете все необходимое для создания, изменения и улучшения ваших изображений."
+            },
     ]
 }
