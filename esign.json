@@ -29,7 +29,8 @@
             "version": "266.0",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/instagram.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/instagram.ipa",
-            "versionDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Plus Tweak)."
+            "versionDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Plus Tweak).",
+            "size": "126877696"
             },
 	    {
 	    "versionDate": "2023-01-10",
@@ -37,7 +38,8 @@
             "version": "26.8.0",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/tiktok.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/tiktok.ipa",
-            "versionDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (DL Tweak)."
+            "versionDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (DL Tweak).",
+            "size": "184549376"
             },
 	    {
 	    "versionDate": "2022-11-11",
