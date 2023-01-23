@@ -53,5 +53,45 @@
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/pixelmator.ipa",
             "versionDescription": "Мощный графический редактор, в котором вы найдете все необходимое для создания, изменения и улучшения ваших изображений."
             },
+	    {
+	    "versionDate": "2022-11-11T12:00:00+0800",
+            "name": "LumaFusion",
+            "version": "3.1.4",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/luma.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/lumafusion.ipa",
+            "versionDescription": "Откройте вновь магию создания историй и радость редактирования."
+            },
+	    {
+	    "versionDate": "2022-11-11T12:00:00+0800",
+            "name": "FaceTune Basic",
+            "version": "2.8.11",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/facetune.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/facetune.ipa",
+            "versionDescription": "Популярный фоторедактор для обработки лица и тела."
+            },
+	    {
+	    "versionDate": "2023-01-21T12:00:00+0800",
+            "name": "Bazaart Premium",
+            "version": "9.5.3",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/bazaart.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/bazaart.ipa",
+            "versionDescription": "Ваш универсальный магазин для редактирования и дизайна фотографий с активированной премиум подпиской."
+            },
+	    {
+	    "versionDate": "2022-11-15T12:00:00+0800",
+            "name": "Star VPN Premium",
+            "version": "3.6.0",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/vpn.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/vpn.ipa",
+            "versionDescription": "Premium версия популярного VPN приложения."
+            },
+	    {
+	    "versionDate": "2022-11-11T12:00:00+0800",
+            "name": "Infuse Pro",
+            "version": "7.4.4",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/infuse.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/infuse.ipa",
+            "versionDescription": "Видеоплеер для iOS с поддержкой 14 форматов и активированной Pro версией."
+            },
     ]
 }
