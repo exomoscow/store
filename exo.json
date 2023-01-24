@@ -132,6 +132,15 @@
             "size": "113246208"
             },
 	    {
+	    "versionDate": "2023-01-23",
+            "name": "365ScoresPro",
+            "version": "5.8.5",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/365.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/365.ipa",
+            "versionDescription": "365Scores предлагает самую точную и актуальную информацию о счете спортивных матчей в реальном времени с максимально быстрым обновлением онлайн.",
+            "size": "52000000"
+            },
+	    {
 	    "versionDate": "2023-01-11",
             "name": "Subway Surfers",
             "version": "3.6.0",
