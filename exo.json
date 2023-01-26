@@ -33,12 +33,12 @@
             "size": "126877696"
             },
 	    {
-	    "versionDate": "2023-01-10",
+	    "versionDate": "2023-01-27",
             "name": "TikTok +",
-            "version": "26.8.0",
+            "version": "27.7.1",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/tiktok.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/tiktok.ipa",
-            "versionDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (DL Tweak).",
+            "versionDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (Dark Tweak).",
             "size": "184549376"
             },
 	    {
@@ -141,9 +141,9 @@
             "size": "52000000"
             },
 	    {
-	    "versionDate": "2023-01-11",
+	    "versionDate": "2023-01-27",
             "name": "Subway Surfers",
-            "version": "3.6.0",
+            "version": "3.6.3",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/subway.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/subway.ipa?raw=true",
             "versionDescription": "Легендарная игра с бесконечной внутриигровой валютой.",
