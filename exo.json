@@ -6,6 +6,33 @@
     "sourceURL": "",
     "apps":  [
 	    {
+	    "versionDate": "2023-02-20",
+            "name": "YouTube +",
+            "version": "18.01.6",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/yt.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/youtube.ipa",
+            "versionDescription": "Расширенная версия приложенияя YouTube без рекламы. (uYou/PiP/iSponsorBlock Tweaks).",
+            "size": "111149056"
+            },
+	    {
+	    "versionDate": "2023-02-20",
+            "name": "Instagram +",
+            "version": "270.0",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/instagram.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/instagram.ipa",
+            "versionDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Rocket Tweak).",
+            "size": "126877696"
+            },
+	    {
+	    "versionDate": "2023-02-20",
+            "name": "TikTok +",
+            "version": "28.1.0",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/tiktok.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/tiktok.ipa",
+            "versionDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (LRD Tweak).",
+            "size": "184549376"
+            },
+	    {
 	    "versionDate": "2022-12-15",
             "name": "HUD Speed Pro",
             "version": "55.0.1",
@@ -13,33 +40,6 @@
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/hud.ipa",
             "versionDescription": "Антирадар.",
             "size": "23802675"
-            },
-	    {
-	    "versionDate": "2023-01-21",
-            "name": "YouTube +",
-            "version": "18.02.3",
-            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/yt.ico",
-            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/youtube.ipa",
-            "versionDescription": "Расширенная версия приложенияя YouTube без рекламы. (uYou/PiP/iSponsorBlock Tweaks).",
-            "size": "111149056"
-            },
-	    {
-	    "versionDate": "2023-01-21",
-            "name": "Instagram +",
-            "version": "266.0",
-            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/instagram.ico",
-            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/instagram.ipa",
-            "versionDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Plus Tweak).",
-            "size": "126877696"
-            },
-	    {
-	    "versionDate": "2023-01-27",
-            "name": "TikTok +",
-            "version": "27.7.1",
-            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/tiktok.ico",
-            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/tiktok.ipa",
-            "versionDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (Dark Tweak).",
-            "size": "184549376"
             },
 	    {
 	    "versionDate": "2022-11-11",
@@ -141,9 +141,18 @@
             "size": "52000000"
             },
 	    {
-	    "versionDate": "2023-01-27",
+	    "versionDate": "2023-02-20",
+            "name": "SimCity",
+            "version": "1.45.1",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/sim.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/sim.ipa?raw=true",
+            "versionDescription": "Легендарная игра с бесконечной внутриигровой валютой.",
+            "size": "190994944"
+            },
+	    {
+	    "versionDate": "2023-02-20",
             "name": "Subway Surfers",
-            "version": "3.6.3",
+            "version": "3.7.3",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/subway.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/subway.ipa?raw=true",
             "versionDescription": "Легендарная игра с бесконечной внутриигровой валютой.",
