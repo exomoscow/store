@@ -6,16 +6,16 @@
     "sourceURL": "",
     "apps":  [
 	    {
-	    "versionDate": "2023-02-20",
+	    "versionDate": "2023-03-02",
             "name": "YouTube +",
-            "version": "18.01.6",
+            "version": "18.08.1",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/yt.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/youtube.ipa",
             "versionDescription": "Расширенная версия приложенияя YouTube без рекламы. (uYou/PiP/iSponsorBlock Tweaks).",
             "size": "111149056"
             },
 	    {
-	    "versionDate": "2023-02-20",
+	    "versionDate": "2023-03-02",
             "name": "Instagram +",
             "version": "270.0",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/instagram.ico",
@@ -24,9 +24,9 @@
             "size": "126877696"
             },
 	    {
-	    "versionDate": "2023-02-20",
+	    "versionDate": "2023-03-02",
             "name": "TikTok +",
-            "version": "27.9.0",
+            "version": "28.4.0",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/tiktok.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/tiktok.ipa",
             "versionDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (LRD Tweak).",
@@ -40,6 +40,15 @@
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/hud.ipa",
             "versionDescription": "Антирадар.",
             "size": "23802675"
+            },
+	    {
+	    "versionDate": "2022-11-11",
+            "name": "Facetune",
+            "version": "3.15",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/facetune.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/facetune.ipa",
+            "versionDescription": "Мощный графический редактор, в котором вы найдете все необходимое для создания, изменения и улучшения ваших изображений.",
+            "size": "214958080"
             },
 	    {
 	    "versionDate": "2022-11-11",
@@ -58,15 +67,6 @@
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/lumafusion.ipa",
             "versionDescription": "Откройте вновь магию создания историй и радость редактирования.",
             "size": "131072000"
-            },
-	    {
-	    "versionDate": "2022-11-11",
-            "name": "FaceTune Basic",
-            "version": "2.8.11",
-            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/facetune.ico",
-            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/facetune.ipa",
-            "versionDescription": "Популярный фоторедактор для обработки лица и тела.",
-            "size": "49283072"
             },
 	    {
 	    "versionDate": "2023-01-21",
