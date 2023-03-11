@@ -33,6 +33,15 @@
             "size": "184549376"
             },
 	    {
+	    "versionDate": "2023-03-11",
+            "name": "Nicegram Premium",
+            "version": "1.2.3",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/nicegram.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/nicegram.ipa",
+            "versionDescription": "Аналог клиента Телеграм с премиум функциями (при появлении запроса apple id следует нажать на отмену).",
+            "size": "184549376"
+            },
+	    {
 	    "versionDate": "2022-12-15",
             "name": "HUD Speed Pro",
             "version": "55.0.1",
