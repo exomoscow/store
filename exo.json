@@ -15,9 +15,9 @@
             "size": "111149056"
             },
 	    {
-	    "versionDate": "2023-03-02",
+	    "versionDate": "2023-03-15",
             "name": "Instagram +",
-            "version": "270.0",
+            "version": "273.0",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/instagram.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/instagram.ipa",
             "versionDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Rocket Tweak).",
@@ -28,7 +28,7 @@
             "name": "TikTok +",
             "version": "28.4.0",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/tiktok.ico",
-            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/tiktokold.ipa",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/tiktok.ipa",
             "versionDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (LRD Tweak).",
             "size": "184549376"
             },
@@ -87,15 +87,6 @@
             "size": "54525952"
             },
 	    {
-	    "versionDate": "2022-11-15",
-            "name": "Star VPN Premium",
-            "version": "3.6.0",
-            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/vpn.ico",
-            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/vpn.ipa",
-            "versionDescription": "Premium версия популярного VPN приложения.",
-            "size": "8074000"
-            },
-	    {
 	    "versionDate": "2022-11-11",
             "name": "Infuse Pro",
             "version": "7.4.4",
@@ -116,7 +107,7 @@
 	    {
 	    "versionDate": "2022-11-11",
             "name": "KinoHome",
-            "version": "3.0",
+            "version": "4.0",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/kinohome.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/kinohome.ipa",
             "versionDescription": "Домашний кинотеатр от российского разработчика.",
