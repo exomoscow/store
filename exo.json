@@ -105,22 +105,13 @@
             "size": "37748736"
             },
 	    {
-	    "versionDate": "2022-11-11",
+	    "versionDate": "2023-03-21",
             "name": "KinoHome",
-            "version": "4.0",
+            "version": "4.0.2",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/kinohome.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/kinohome.ipa",
             "versionDescription": "Домашний кинотеатр от российского разработчика.",
             "size": "78643000"
-            },
-	    {
-	    "versionDate": "2022-11-11",
-            "name": "Noir for Safari",
-            "version": "3.4",
-            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/noir.ico",
-            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/noir.ipa",
-            "versionDescription": "Черная тема для браузера Safari.",
-            "size": "5347737"
             },
 	    {
 	    "versionDate": "2022-11-11",
