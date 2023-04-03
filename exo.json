@@ -60,9 +60,9 @@
             "size": "23802675"
             },
 	    {
-	    "versionDate": "2022-11-11",
+	    "versionDate": "2023-04-02",
             "name": "Facetune",
-            "version": "3.15",
+            "version": "3.16",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/facetune.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/facetune.ipa",
             "versionDescription": "Мощный графический редактор, в котором вы найдете все необходимое для создания, изменения и улучшения ваших изображений.",
@@ -114,9 +114,9 @@
             "size": "37748736"
             },
 	    {
-	    "versionDate": "2023-03-21",
+	    "versionDate": "2023-04-02",
             "name": "KinoHome",
-            "version": "4.0.2",
+            "version": "4.0.3",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/kinohome.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/kinohome.ipa",
             "versionDescription": "Домашний кинотеатр от российского разработчика.",
@@ -141,9 +141,9 @@
             "size": "52000000"
             },
 	    {
-	    "versionDate": "2023-02-20",
+	    "versionDate": "2023-04-02",
             "name": "SimCity",
-            "version": "1.45.1",
+            "version": "1.46.1",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/sim.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/sim.ipa?raw=true",
             "versionDescription": "Легендарная игра с бесконечной внутриигровой валютой.",
