@@ -16,17 +16,8 @@
             },
 	    {
 	    "versionDate": "2023-04-02",
-            "name": "YouTube ++",
-            "version": "18.12.2",
-            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/yt.ico",
-            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/youtube2.ipa",
-            "versionDescription": "Расширенная версия приложенияя YouTube без рекламы. (KillerPlus - содержит платный плагин).",
-            "size": "111149056"
-            },
-	    {
-	    "versionDate": "2023-04-02",
             "name": "Instagram +",
-            "version": "276.1",
+            "version": "277.0",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/instagram.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/instagram.ipa",
             "versionDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Rocket Tweak).",
@@ -114,9 +105,9 @@
             "size": "37748736"
             },
 	    {
-	    "versionDate": "2023-04-02",
+	    "versionDate": "2023-04-04",
             "name": "KinoHome",
-            "version": "4.0.3",
+            "version": "4.0.4",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/kinohome.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/kinohome.ipa",
             "versionDescription": "Домашний кинотеатр от российского разработчика.",
