@@ -15,25 +15,25 @@
             "size": "111149056"
             },
 	    {
-	    "versionDate": "2023-04-02",
+	    "versionDate": "2023-04-05",
             "name": "Instagram +",
-            "version": "277.0",
+            "version": "277.1",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/instagram.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/instagram.ipa",
             "versionDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Rocket Tweak).",
             "size": "126877696"
             },
 	    {
-	    "versionDate": "2023-04-02",
+	    "versionDate": "2023-04-05",
             "name": "TikTok +",
-            "version": "28.4.1",
+            "version": "28.9.0",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/tiktok.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/tiktok.ipa",
             "versionDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (LRD Tweak).",
             "size": "184549376"
             },
 	    {
-	    "versionDate": "2023-03-11",
+	    "versionDate": "2023-04-05",
             "name": "Nicegram Premium",
             "version": "1.2.4",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/nicegram.ico",
@@ -51,7 +51,7 @@
             "size": "23802675"
             },
 	    {
-	    "versionDate": "2023-04-02",
+	    "versionDate": "2023-04-05",
             "name": "Facetune",
             "version": "3.16",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/facetune.ico",
@@ -105,7 +105,7 @@
             "size": "37748736"
             },
 	    {
-	    "versionDate": "2023-04-04",
+	    "versionDate": "2023-04-05",
             "name": "KinoHome",
             "version": "4.0.4",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/kinohome.ico",
