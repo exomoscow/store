@@ -6,9 +6,9 @@
     "sourceURL": "",
     "apps":  [
 	    {
-	    "versionDate": "2023-04-02",
+	    "versionDate": "2023-04-16",
             "name": "YouTube +",
-            "version": "18.08.1",
+            "version": "18.14.1",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/yt.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/youtube.ipa",
             "versionDescription": "Расширенная версия приложенияя YouTube без рекламы. (uYou/PiP/iSponsorBlock Tweaks).",
