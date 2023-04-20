@@ -6,27 +6,27 @@
     "sourceURL": "",
     "apps":  [
 	    {
-	    "versionDate": "2023-04-16",
+	    "versionDate": "2023-04-20",
             "name": "YouTube +",
-            "version": "18.14.1",
+            "version": "18.08.1",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/yt.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/youtube.ipa",
             "versionDescription": "Расширенная версия приложенияя YouTube без рекламы. (YouTubePlus/PiP/iSponsorBlock Tweaks).",
             "size": "111149056"
             },
 	    {
-	    "versionDate": "2023-04-11",
+	    "versionDate": "2023-04-20",
             "name": "Instagram +",
-            "version": "278.0",
+            "version": "279.1",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/instagram.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/instagram.ipa",
             "versionDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Rocket Tweak).",
             "size": "126877696"
             },
 	    {
-	    "versionDate": "2023-04-14",
+	    "versionDate": "2023-04-20",
             "name": "TikTok +",
-            "version": "28.0.0",
+            "version": "29.0.0",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/tiktok.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/tiktok.ipa",
             "versionDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (LRD Tweak).",
