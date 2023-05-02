@@ -15,9 +15,9 @@
             "size": "111149056"
             },
 	    {
-	    "versionDate": "2023-04-30",
+	    "versionDate": "2023-05-01",
             "name": "Instagram +",
-            "version": "280.0",
+            "version": "281.0",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/instagram.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/instagram.ipa",
             "versionDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Rocket Tweak).",
@@ -96,9 +96,9 @@
             "size": "54525952"
             },
 	    {
-	    "versionDate": "2022-11-11",
+	    "versionDate": "2023-05-01",
             "name": "Infuse Pro",
-            "version": "7.4.4",
+            "version": "7.5.2",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/infuse.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/infuse.ipa",
             "versionDescription": "Видеоплеер для iOS с поддержкой 14 форматов и активированной Pro версией.",
