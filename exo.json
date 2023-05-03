@@ -24,6 +24,15 @@
             "size": "126877696"
             },
 	    {
+	    "versionDate": "2023-05-01",
+            "name": "VK +",
+            "version": "8.13",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/vk.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/vk.ipa",
+            "versionDescription": "Уникальный авторский твик для расширения стандартных возможностей приложения VK. (Lazy Tweak) Source:/nlazyshop.app.",
+            "size": "126877696"
+            },
+	    {
 	    "versionDate": "2023-04-20",
             "name": "TikTok +",
             "version": "29.2.0",
