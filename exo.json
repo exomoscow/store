@@ -11,7 +11,7 @@
             "version": "18.14.1",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/yt.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/youtube.ipa",
-            "versionDescription": "Расширенная версия приложенияя YouTube без рекламы. (YouTubePlus/PiP/iSponsorBlock Tweaks).",
+            "versionDescription": "Расширенная версия приложенияя YouTube без рекламы. \n(YouTubePlus/PiP/iSponsorBlock Tweaks). \n\nSource:appdb.to",
             "size": "111149056"
             },
 	    {
@@ -20,7 +20,7 @@
             "version": "281.0",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/instagram.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/instagram.ipa",
-            "versionDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. (Rocket Tweak).",
+            "versionDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. \n(Rocket Tweak).\n\nSource:appdb.to",
             "size": "126877696"
             },
 	    {
@@ -29,7 +29,7 @@
             "version": "8.13",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/vk.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/vk.ipa",
-            "versionDescription": "Уникальный авторский твик для расширения стандартных возможностей приложения VK. (Lazy Tweak) Source:/nlazyshop.app.",
+            "versionDescription": "Уникальный авторский твик для расширения стандартных возможностей приложения VK. \n(Lazy Tweak) \n\nSource:lazyshop.app",
             "size": "126877696"
             },
 	    {
@@ -38,7 +38,7 @@
             "version": "29.2.0",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/tiktok.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/tiktok.ipa",
-            "versionDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. (LRD-Lazy Tweak).",
+            "versionDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. \n(LRD-Lazy Tweak).\n\nSource:appdb.to",
             "size": "184549376"
             },
 	    {
@@ -47,7 +47,7 @@
             "version": "1.2.6",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/nicegram.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/nicegram.ipa",
-            "versionDescription": "Аналог клиента Телеграм с премиум функциями (при появлении запроса apple id следует нажать на отмену).",
+            "versionDescription": "Аналог клиента Телеграм с премиум функциями. \nПри появлении запроса apple id следует нажать на отмену.",
             "size": "184549376"
             },
 	    {
