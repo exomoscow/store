@@ -150,9 +150,9 @@
             "size": "52000000"
             },
 	    {
-	    "versionDate": "2023-04-02",
+	    "versionDate": "2023-05-03",
             "name": "SimCity",
-            "version": "1.46.1",
+            "version": "1.47.2",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/sim.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/sim.ipa?raw=true",
             "versionDescription": "Легендарная игра с бесконечной внутриигровой валютой.",
