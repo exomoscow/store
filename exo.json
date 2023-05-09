@@ -15,9 +15,9 @@
             "size": "111149056"
             },
 	    {
-	    "versionDate": "2023-05-01",
+	    "versionDate": "2023-05-09",
             "name": "Instagram +",
-            "version": "281.0",
+            "version": "282.0",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/instagram.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/instagram.ipa",
             "versionDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. \n(Rocket Tweak).\n\nSource:appdb.to",
