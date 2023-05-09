@@ -24,9 +24,9 @@
             "size": "126877696"
             },
 	    {
-	    "versionDate": "2023-04-20",
+	    "versionDate": "2023-05-10",
             "name": "TikTok +",
-            "version": "29.2.0",
+            "version": "29.3.0",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/tiktok.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/tiktok.ipa",
             "versionDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. \n(LRD-Lazy Tweak).\n\nSource:appdb.to",
