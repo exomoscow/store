@@ -15,18 +15,18 @@
             "size": "111149056"
             },
 	    {
-	    "versionDate": "2023-05-09",
+	    "versionDate": "2023-05-19",
             "name": "Instagram +",
-            "version": "282.0",
+            "version": "283.0",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/instagram.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/instagram.ipa",
             "versionDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. \n(Rocket Tweak).\n\nSource:appdb.to",
             "size": "126877696"
             },
 	    {
-	    "versionDate": "2023-05-10",
+	    "versionDate": "2023-05-19",
             "name": "TikTok +",
-            "version": "29.3.0",
+            "version": "29.5.0",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/tiktok.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/tiktok.ipa",
             "versionDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. \n(LRD-Lazy Tweak).\n\nSource:appdb.to",
