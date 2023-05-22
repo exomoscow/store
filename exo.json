@@ -33,9 +33,9 @@
             "size": "184549376"
             },
 	    {
-	    "versionDate": "2023-04-26",
+	    "versionDate": "2023-05-22",
             "name": "Nicegram Premium",
-            "version": "1.2.6",
+            "version": "1.2.9",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/nicegram.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/nicegram.ipa",
             "versionDescription": "Аналог клиента Телеграм с премиум функциями. \nПри появлении запроса apple id следует нажать на отмену.",
@@ -105,7 +105,7 @@
             "size": "40370176"
             },
 	    {
-	    "versionDate": "2023-04-05",
+	    "versionDate": "2023-05-22",
             "name": "KinoHome",
             "version": "4.1",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/kinohome.ico",
@@ -138,6 +138,15 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/365.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/365.ipa",
             "versionDescription": "365Scores предлагает самую точную и актуальную информацию о счете спортивных матчей в реальном времени с максимально быстрым обновлением онлайн.",
+            "size": "52000000"
+            },
+	    {
+	    "versionDate": "2023-05-22",
+            "name": "Photomath Plus",
+            "version": "8.23.1",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/photomathplus.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/photomathplus.ipa",
+            "versionDescription": "Приложение «камера-калькулятор» использующее камеру телефона для распознания математических уравнений и отображения пошагового решения на экране.",
             "size": "52000000"
             },
 	    {
