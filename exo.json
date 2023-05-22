@@ -34,6 +34,15 @@
             },
 	    {
 	    "versionDate": "2023-05-22",
+            "name": "VK +",
+            "version": "8.13",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/vk.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/vk.ipa",
+            "versionDescription": "Расширенная версия VK клиента. \n(LazyMod).\n\nSource:appdb.to",
+            "size": "184549376"
+            },
+	    {
+	    "versionDate": "2023-05-22",
             "name": "Nicegram Premium",
             "version": "1.2.9",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/nicegram.ico",
