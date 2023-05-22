@@ -105,6 +105,15 @@
             "size": "40370176"
             },
 	    {
+	    "versionDate": "2023-04-05",
+            "name": "KinoHome",
+            "version": "4.1",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/kinohome.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/kinohome.ipa",
+            "versionDescription": "Домашний кинотеатр от российского разработчика.",
+            "size": "78643000"
+            },
+	    {
 	    "versionDate": "2022-11-11",
             "name": "KinoPub",
             "version": "1.0.87",
@@ -112,15 +121,6 @@
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/kinopub.ipa",
             "versionDescription": "Популярный домашний кинотеатр.",
             "size": "37748736"
-            },
-	    {
-	    "versionDate": "2023-04-05",
-            "name": "KinoHome",
-            "version": "4.0.4",
-            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/kinohome.ico",
-            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/kinohome.ipa",
-            "versionDescription": "Домашний кинотеатр от российского разработчика.",
-            "size": "78643000"
             },
 	    {
 	    "versionDate": "2022-11-11",
