@@ -12,7 +12,6 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/yt.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/youtube.ipa",
             "versionDescription": "Расширенная версия приложенияя YouTube без рекламы. \n(YouTubePlus/PiP/iSponsorBlock Tweaks). \n\nSource:appdb.to",
-            "size": "111149056"
             },
 	    {
 	    "versionDate": "2023-05-19",
@@ -21,7 +20,6 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/instagram.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/instagram.ipa",
             "versionDescription": "Расширенная версия приложения Instagram без рекламы, возможностью загрузки контента и прочими функциями. \n(Rocket Tweak).\n\nSource:appdb.to",
-            "size": "126877696"
             },
 	    {
 	    "versionDate": "2023-05-19",
@@ -30,7 +28,6 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/tiktok.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/tiktok.ipa",
             "versionDescription": "Расширенная версия приложения TikTok с возможностью загрузки видео без водного знака. \n(LRD-Lazy Tweak).\n\nSource:appdb.to",
-            "size": "184549376"
             },
 	    {
 	    "versionDate": "2023-05-22",
@@ -39,7 +36,6 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/vk.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/vk.ipa",
             "versionDescription": "Расширенная версия VK клиента. \n(LazyMod).\n\nSource:appdb.to",
-            "size": "184549376"
             },
 	    {
 	    "versionDate": "2023-05-22",
@@ -48,7 +44,6 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/nicegram.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/nicegram.ipa",
             "versionDescription": "Аналог клиента Телеграм с премиум функциями. \nПри появлении запроса apple id следует нажать на отмену.",
-            "size": "184549376"
             },
 	    {
 	    "versionDate": "2023-04-26",
@@ -57,7 +52,6 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/discord.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/discord.ipa",
             "versionDescription": "Модифицированный клиент Discord.",
-            "size": "184549376"
             },
 	    {
 	    "versionDate": "2023-05-26",
@@ -66,7 +60,14 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/documents.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/documents.ipa",
             "versionDescription": "Plus версия популярного менеджера файлов Documents.",
-            "size": "184549376"
+            },
+	    {
+	    "versionDate": "2023-05-26",
+            "name": "Flightradar",
+            "version": "9.5.0",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/radar.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/radar.ipa",
+            "versionDescription": "Gold версия популярного приложения, позволяющего в реальном времени наблюдать за положением воздушных судов.",
             },
 	    {
 	    "versionDate": "2022-12-15",
@@ -75,7 +76,6 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/hud.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/hud.ipa",
             "versionDescription": "Антирадар.",
-            "size": "23802675"
             },
 	    {
 	    "versionDate": "2023-04-05",
@@ -84,7 +84,6 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/facetune.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/facetune.ipa",
             "versionDescription": "Мощный графический редактор, в котором вы найдете все необходимое для создания, изменения и улучшения ваших изображений.",
-            "size": "214958080"
             },
 	    {
 	    "versionDate": "2022-11-11",
@@ -93,7 +92,6 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/pixelmator.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/pixelmator.ipa",
             "versionDescription": "Мощный графический редактор, в котором вы найдете все необходимое для создания, изменения и улучшения ваших изображений.",
-            "size": "214958080"
             },
 	    {
 	    "versionDate": "2022-11-11",
@@ -102,7 +100,6 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/luma.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/lumafusion.ipa",
             "versionDescription": "Откройте вновь магию создания историй и радость редактирования.",
-            "size": "131072000"
             },
 	    {
 	    "versionDate": "2023-01-21",
@@ -111,7 +108,6 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/bazaart.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/bazaart.ipa",
             "versionDescription": "Ваш универсальный магазин для редактирования и дизайна фотографий с активированной премиум подпиской.",
-            "size": "54525952"
             },
 	    {
 	    "versionDate": "2023-05-01",
@@ -120,7 +116,6 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/infuse.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/infuse.ipa",
             "versionDescription": "Видеоплеер для iOS с поддержкой 14 форматов и активированной Pro версией.",
-            "size": "40370176"
             },
 	    {
 	    "versionDate": "2023-05-22",
@@ -129,7 +124,6 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/kinohome.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/kinohome.ipa",
             "versionDescription": "Домашний кинотеатр от российского разработчика.",
-            "size": "78643000"
             },
 	    {
 	    "versionDate": "2022-11-11",
@@ -138,7 +132,6 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/kinopub.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/kinopub.ipa",
             "versionDescription": "Популярный домашний кинотеатр.",
-            "size": "37748736"
             },
 	    {
 	    "versionDate": "2022-11-11",
@@ -147,7 +140,6 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/dj.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/dj.ipa",
             "versionDescription": "Pro версия одной из лучших DJ программ.",
-            "size": "113246208"
             },
 	    {
 	    "versionDate": "2023-01-23",
@@ -156,7 +148,6 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/365.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/365.ipa",
             "versionDescription": "365Scores предлагает самую точную и актуальную информацию о счете спортивных матчей в реальном времени с максимально быстрым обновлением онлайн.",
-            "size": "52000000"
             },
 	    {
 	    "versionDate": "2023-05-22",
@@ -165,7 +156,6 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/photomathplus.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/photomathplus.ipa",
             "versionDescription": "Приложение «камера-калькулятор» использующее камеру телефона для распознания математических уравнений и отображения пошагового решения на экране.",
-            "size": "52000000"
             },
 	    {
 	    "versionDate": "2023-05-03",
@@ -174,7 +164,6 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/sim.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/sim.ipa?raw=true",
             "versionDescription": "Легендарная игра с бесконечной внутриигровой валютой.",
-            "size": "190994944"
             },
 	    {
 	    "versionDate": "2023-02-20",
@@ -183,7 +172,6 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/subway.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/subway.ipa?raw=true",
             "versionDescription": "Легендарная игра с бесконечной внутриигровой валютой.",
-            "size": "150994944"
             },
 	    {
 	    "versionDate": "2022-11-11",
@@ -192,7 +180,6 @@
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/flappybird.ico",
             "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/flappybird.ipa?raw=true",
             "versionDescription": "Название говорит само за себя, одна из самых популярный игр на iPhone.",
-            "size": "2150000"
             }
     ]
 }
