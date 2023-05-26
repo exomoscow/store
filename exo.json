@@ -60,6 +60,15 @@
             "size": "184549376"
             },
 	    {
+	    "versionDate": "2023-04-26",
+            "name": "Documents by Readdle Plus",
+            "version": "8.4.6",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/documents.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/documents.ipa",
+            "versionDescription": "Plus версия популярного менеджера файлов Documents.",
+            "size": "184549376"
+            },
+	    {
 	    "versionDate": "2022-12-15",
             "name": "HUD Speed Pro",
             "version": "55.0.1",
