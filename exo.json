@@ -63,6 +63,14 @@
             },
 	    {
 	    "versionDate": "2023-05-26",
+            "name": "Star VPN",
+            "version": "3.7.0",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/vpn.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/vpn.ipa",
+            "versionDescription": "Premium версия VPN клиента.",
+            },
+	    {
+	    "versionDate": "2023-05-26",
             "name": "Flightradar",
             "version": "9.5.0",
             "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/radar.ico",
