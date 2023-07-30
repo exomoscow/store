@@ -78,6 +78,14 @@
             "versionDescription": "Антирадар.",
             },
 	    {
+	    "versionDate": "2023-07-30",
+            "name": "Reface Pro",
+            "version": "3.42",
+            "iconURL": "https://raw.githubusercontent.com/exomoscow/store/main/files/reface.ico",
+            "downloadURL": "https://github.com/exomoscow/store/releases/download/exo/reface.ipa",
+            "versionDescription": "Уникальное приложение для замены лиц на фото, gif и видео.",
+            },
+	    {
 	    "versionDate": "2023-04-05",
             "name": "Facetune",
             "version": "3.16",
